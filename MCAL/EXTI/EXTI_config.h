@@ -1,0 +1,20 @@
+/*
+ * EXTI_config.h
+ *
+ *  Created on: Jul 21, 2026
+ *      Author: Ahmed El-Gaafrawy
+ */
+
+#ifndef MCAL_EXTI_EXTI_CONFIG_H_
+#define MCAL_EXTI_EXTI_CONFIG_H_
+
+#define EXTI_INT0_SENSE_LEVEL         EXTI_FALLING_EDGE
+#define EXTI_INT1_SENSE_LEVEL         EXTI_RISING_EDGE
+#define EXTI_INT2_SENSE_LEVEL         EXTI_FALLING_EDGE
+
+#define EXTI_INT0_INTERRPUT            EXTI_ENABLE_INTERRUPT
+#define EXTI_INT1_INTERRPUT            EXTI_ENABLE_INTERRUPT
+#define EXTI_INT2_INTERRPUT            EXTI_ENABLE_INTERRUPT
+
+
+#endif /* MCAL_EXTI_EXTI_CONFIG_H_ */
