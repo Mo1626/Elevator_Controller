@@ -1,8 +1,8 @@
 # Elevator_Controller
 
-1- Abd AL_Rahman Farouk Mohamed ( DIO , ADC , UART , EXTI , TIMER0 ) { Team Leader & Supporter }
+1- Abd AL-Rahman Farouk Mohamed ( DIO , ADC , UART , EXTI , TIMER0 ) { Team Leader & Supporter }
 
-2- Mena Roziq Kamel Ayoup (depugging , testing , Management , Problem solving ) { Co_Leader & Software Architect }
+2- Mena Roziq Kamel Ayoup (depugging , testing , Management , Problem solving ) { Co-Leader & Software Architect }
 
 3- Khadija Talaat Mahmoud Hassan ( Buzzer , lcd , led , Switch , keypad ) { Hard Working , Executor }
 
