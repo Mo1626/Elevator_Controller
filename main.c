@@ -227,11 +227,11 @@ static void Elevator_vidHandleKeypad(u8 u8PressedKey)
 {
     switch (u8PressedKey)
     {
-        case '*': 
+        case '*':
             Elevator_vidOpenDoor();
             break;
 
-        case '#': 
+        case '#':
             Elevator_vidCloseDoor();
             break;
 
