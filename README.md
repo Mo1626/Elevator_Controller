@@ -8,7 +8,7 @@
 
 4- Athar Nassar Soliman Hamed ( State_Machine , Scheduler , Elevator_Manager ) { Application & motivation }
 
-5- Lamiaa Essam Mohamed Saied ( Door , Sensor , Queue , Safety ) { Integrator , documentation }
+5- Lamiaa Essam Mohammad Sayed ( Door , Sensor , Queue , Safety ) { Integrator , documentation }
 
 
 Info:
