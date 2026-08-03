@@ -4,7 +4,7 @@
 
 2- Mena Roziq Kamel Ayoup (depugging , testing , Management , Problem solving ) { Co-Leader & Software Architect }
 
-3- Khadija Talaat Mahmoud Hassan ( Buzzer , lcd , led , Switch , keypad ) { Hard Working , Executor }
+3- Khadija Talaat Mahmoud Hassan ( Buzzer , LCD , Led , Switch , Keypad ) { Hardware Implementation & Driver Dev }
 
 4- Athar Nassar Soliman Hamed ( State_Machine , Scheduler , Elevator_Manager ) { Application & motivation }
 
